@@ -1,0 +1,21 @@
+# Core
+requests
+Flask
+
+# Data
+pandas
+numpy
+
+# Environment
+python-dotenv
+
+# Testing
+pytest
+
+# Linting and Code Quality
+# flake8
+
+# OCR
+pytesseract
+
+# Web Scraping
