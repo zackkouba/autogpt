@@ -1,21 +1,13 @@
 # Core
+python-dotenv
 requests
+pytest
 Flask
 
-# Data
+# Other
 pandas
 numpy
-
-# Environment
-python-dotenv
-
-# Testing
-pytest
-
-# Linting and Code Quality
-# flake8
-
-# OCR
+selenium
 pytesseract
-
-# Web Scraping
+openai
+webdriver-manager
